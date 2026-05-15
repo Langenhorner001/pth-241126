@@ -1,0 +1,6 @@
+/* App-level shell styles. Most styling lives in index.css + Tailwind. */
+.App {
+    min-height: 100vh;
+    background: var(--pth-bg);
+    color: var(--pth-fg);
+}
